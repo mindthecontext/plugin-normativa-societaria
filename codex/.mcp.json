@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "societario": {
+      "type": "http",
+      "url": "https://societario.mcp.mindthecontext.ai/mcp"
+    }
+  }
+}

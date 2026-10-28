@@ -1,0 +1,28 @@
+{
+  "name": "societario",
+  "version": "0.1.1",
+  "description": "Revisión de poderes de sociedades chilenas: quién puede obligar a una SpA, anónima, limitada o EIRL, para qué actos, sola o con quién, hasta cuánto y si está vigente, con el pasaje de cada documento, el artículo de la ley con su versión y lo que falta; y qué normas y hechos deciden los efectos cuando ya se firmó.",
+  "author": {
+    "name": "MindTheContext"
+  },
+  "repository": "https://github.com/mindthecontext/saber-societario",
+  "keywords": [
+    "sociedades",
+    "spa",
+    "sociedad anónima",
+    "limitada",
+    "eirl",
+    "poderes",
+    "personería",
+    "representación",
+    "mandato",
+    "registro de empresas"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Societario",
+    "shortDescription": "Quién puede obligar a una sociedad, para qué y si está vigente, con pasaje, artículo y faltantes.",
+    "longDescription": "Para la fiscalía de un banco, una notaría o el abogado de una contraparte: con el estatuto, las modificaciones, los poderes y sus certificados, hace el informe de poderes de una SpA, anónima, limitada o EIRL, en el régimen tradicional o en el Registro de Empresas y Sociedades; dice si una persona puede celebrar un acto concreto, quién administra, si los poderes están vigentes y si el acuerdo que los otorgó cumple. Cita el pasaje literal de cada documento y el artículo de la ley con su fecha de versión. Cuando ya se firmó sin facultades, orienta sobre las normas y los hechos que deciden los efectos sin dictaminarlos. No redacta escrituras ni certifica autenticidad. Versión de laboratorio, sin revisión de abogados."
+  },
+  "mcpServers": "./.mcp.json"
+}
