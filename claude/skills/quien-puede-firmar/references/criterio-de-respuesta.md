@@ -88,6 +88,14 @@ alguien podría sostener, no como base para respaldar (consulta C.3). Distinto e
 ley administra con todas las facultades (L19857-9), y el **socio administrador de la limitada** según la escritura o,
 en su silencio, las reglas de la colectiva.
 
+**Representación judicial y delegación del poder para litigar** (K.3, consulta G.3). Cuando un poder o un formulario
+dice «sin facultad de delegar», separa los dos campos: para actos **extrajudiciales** rige lo que dice el poder
+vigente. Para el **juicio**, el gerente de la anónima tiene por ley las facultades de ambos incisos del CPC-7 (L18046-49),
+y ese artículo permite al procurador delegar el poder para litigar, a menos que se le haya negado esa facultad. Si la
+restricción de un acuerdo o de un formulario del directorio alcanza también la delegación para litigar es **discutible**:
+exponlo como duda, con los dos pasajes (CPC-7 y la restricción), sin darlo por resuelto en ningún sentido, y propón el
+camino seguro: que el directorio otorgue el poder al estudio. En la SpA con gerente, sólo si el estatuto calla (F.4).
+
 ## El expediente completo
 
 `lista_de_revision` entrega, para el tipo social, el régimen, el acto y el momento, qué documentos forman la cadena y
@@ -109,9 +117,26 @@ No hace falta tenerlo todo para responder algo útil: hace falta decir qué esla
 Comercio; un poder del que no se tomó razón no produce efecto entre mandante y mandatario, pero los actos ejecutados
 surten efecto respecto de terceros (CCOM-24). En el RES, el Registro de Poderes es público, los formularios reemplazan
 la inscripción y los certificados valen como instrumento público (L20659-13ter, L20659-21, L20659-22). En una sociedad
-**migrada**, los poderes anteriores que no se incorporaron se rigen por las reglas generales (DS83-37); desde la
-migración el Conservador ya no anota al margen (DS83-41, DS83-43), así que su certificado puede no mostrar una
-revocación posterior: es una condición (consulta D.1). Nunca pidas para un régimen las formalidades del otro.
+**migrada al RES** (venía del régimen tradicional), los poderes anteriores que no se incorporaron se rigen por las reglas
+generales (DS83-37); desde la migración el Conservador ya no anota al margen (DS83-41, DS83-43), así que su certificado
+puede no mostrar una revocación posterior: es una condición (consulta D.1). Esto es lo opuesto de una sociedad
+**migrada fuera del RES** (nació en él y pasó al régimen general), que se trata más abajo. Nunca pidas para un régimen las formalidades del otro.
+
+> **Regla provisional (K.2).** En una sociedad constituida y modificada en el RES no pidas escrituras, extractos del
+> Diario Oficial ni inscripciones en el Registro de Comercio, ni siquiera «para ver si hubo modificaciones»: la
+> inscripción y la publicación se entienden cumplidas con la incorporación del formulario (L20659-21), y el estatuto
+> es el que consta en el formulario de constitución y en las modificaciones incorporadas (L20659-5). Lo que se pide es
+> el certificado de estatuto actualizado, con su historial de actuaciones, y, para los poderes, el certificado de
+> vigencia del Registro de Poderes. Esas escrituras y extractos sólo se piden por un acto anterior a la incorporación
+> de la sociedad al RES, y se dice cuál.
+>
+> **Si la sociedad salió del RES** (constituida en él y migrada al régimen general), la regla anterior no se le aplica:
+> desde el certificado de migración el Registro ya no recibe formularios de la sociedad y sus actos se rigen por las leyes
+> que la regulan (L20659-20). El certificado de migración tiene dos secciones: el extracto, que se inscribe en el
+> Registro de Comercio y no nombra administración, y el estatuto completo vigente a la migración (DS83-48). Lo que se pide
+> es esa **segunda sección**, las inscripciones y escrituras **posteriores** a la migración, y el certificado de vigencia
+> del Conservador. No pidas la vigencia ni los poderes del RES como si la sociedad siguiera en él, y no afirmes que se
+> rige por el RES. Si el expediente trae sólo el extracto, el estado es NO SE PUEDE DETERMINAR quién administra.
 
 ### Cuando falta una página intermedia
 
@@ -148,6 +173,24 @@ faculta.
 
 **Que haya vencido el período de los directores no es una señal concreta** si la cadena del tipo resuelve qué pasa al
 vencer (en la anónima y, si el estatuto calla, en la SpA con directorio: L18046-34).
+
+### Renuncia de un director
+
+> **Regla provisional (K.1)**, que desarrolla la consulta G.13.
+
+En la anónima, el director que renuncia cesa cuando **notifica su renuncia mediante ministro de fe** al presidente del
+directorio o al gerente (L18046-37); el reglamento precisa que es una comunicación escrita entregada por ministro de
+fe, sin otra formalidad (DS702-74). Por eso, cuando el expediente dice que alguien «renunció» y sólo consta un correo
+electrónico, una carta o un acta que lo menciona:
+
+- **Dilo expresamente**: según el texto de esas dos normas, la renuncia por correo electrónico, sin ministro de fe, no
+  cumple la forma que la ley exige para el cese. Es un hecho de la respuesta, no una nota al margen.
+- Pide lo que lo acredita: la notificación por ministro de fe, o la constancia de que el director dejó el cargo por
+  otra causa (muerte, inhabilidad, no reelección).
+- Muestra el **efecto en cadena sin concluirlo**: si el director sigue en el cargo, cambian la integración del
+  directorio, a quién había que citar y, con ello, la regularidad de la sesión. No afirmes que la sesión es nula ni que
+  es válida; el camino seguro es acreditar la renuncia o ratificar el acuerdo en una sesión citada a todos.
+- En la SpA, la aplicabilidad de L18046-37 cuando el estatuto calla es discutida (F.4): se menciona como referencia.
 
 ## Cómo se decide
 
