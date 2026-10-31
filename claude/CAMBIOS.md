@@ -4,6 +4,14 @@
 
 Qué cambia para quien usa este saber, versión por versión. Lo que corre de verdad el servicio lo dice su herramienta `ver_cambios`; esto es la copia del paquete.
 
+## v0.1.3 · 2026-10-31
+
+Sin cambios para quien lo usa: la etiqueta v0.1.2 se puso con el servicio anunciándose todavía como 0.1.1, y la verificación de staging la rechazó antes de publicar. Lo que iba a traer está en la 0.1.3.
+
+- Herramientas: `buscar_criterio`, `buscar_normas`, `cadena_del_tipo`, `calcular_umbral`, `lista_de_revision`, `listar_cobertura`, `preguntas_abiertas`, `requisitos_del_acto`, `ver_articulo`, `ver_criterio`
+- Skills: `acuerdo-valido`, `empezar-aqui`, `firma-irregular`, `quien-administra`, `quien-puede-firmar`, `revisar-poderes`, `vigencia-de-poderes`
+- Datos: sin manifiesto
+
 ## v0.1.2 · 2026-10-30
 
 Tres reglas nuevas, todas provisionales y sin revisión de un abogado. Si en un expediente consta que un director renunció por correo electrónico, el saber dice que, según el texto de la ley y del reglamento, esa renuncia sin ministro de fe no cumple la forma del cese, y muestra el efecto sobre la citación y la sesión sin declararla nula ni válida. En una sociedad del Registro de Empresas y Sociedades ya no pide escrituras, extractos ni inscripciones, sino el certificado de estatuto actualizado con su historial y el de vigencia de poderes. Y separa la delegación del poder para litigar (la ley del juicio permite delegar salvo negación) de la delegación en actos extrajudiciales, y presenta como duda abierta si la restricción del directorio alcanza la primera. Además, ante una sociedad que migró fuera del Registro de Empresas y Sociedades, deja de tratarla como si siguiera en él: pide la segunda sección del certificado de migración y lo inscrito después, y no la vigencia del Registro.
