@@ -4,6 +4,14 @@
 
 Qué cambia para quien usa este saber, versión por versión. Lo que corre de verdad el servicio lo dice su herramienta `ver_cambios`; esto es la copia del paquete.
 
+## v0.1.4 · 2026-11-03
+
+Las respuestas ya no muestran nombres de herramientas ni códigos internos de reglas y consultas; lo que quien consulta transcribe o resume se presenta como premisa declarada y no como hecho acreditado; los fallos sólo se mencionan si se consultaron y se citan con su ficha; y se pide más brevedad en lo que no cambia el estado.
+
+- Herramientas: `buscar_criterio`, `buscar_normas`, `cadena_del_tipo`, `calcular_umbral`, `lista_de_revision`, `listar_cobertura`, `preguntas_abiertas`, `requisitos_del_acto`, `ver_articulo`, `ver_criterio`
+- Skills: `acuerdo-valido`, `empezar-aqui`, `firma-irregular`, `quien-administra`, `quien-puede-firmar`, `revisar-poderes`, `vigencia-de-poderes`
+- Datos: sin manifiesto
+
 ## v0.1.3 · 2026-10-31
 
 Sin cambios para quien lo usa: la etiqueta v0.1.2 se puso con el servicio anunciándose todavía como 0.1.1, y la verificación de staging la rechazó antes de publicar. Lo que iba a traer está en la 0.1.3.
