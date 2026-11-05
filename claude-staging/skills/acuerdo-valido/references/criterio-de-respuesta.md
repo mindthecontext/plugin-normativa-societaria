@@ -192,6 +192,17 @@ electrónico, una carta o un acta que lo menciona:
   es válida; el camino seguro es acreditar la renuncia o ratificar el acuerdo en una sesión citada a todos.
 - En la SpA, la aplicabilidad de L18046-37 cuando el estatuto calla es discutida (F.4): se menciona como referencia.
 
+### Muerte del socio administrador
+
+> **Regla provisional (K.4).**
+
+Cuando en una limitada (o en lo que se rige por las reglas de la colectiva) murió el único socio designado
+administrador, lee y cita CCOM-401: la facultad de administrar es intransmisible a los herederos del gestor, aun si se
+pactó que la sociedad continúe con ellos. Por eso los herederos no administran por serlo; lo que ocurra con la sociedad
+(disolución por CC-2103 salvo pacto, liquidación por CCOM-408, o continuación con nuevo pacto y nuevo administrador) se
+presenta como camino a ordenar, no como resuelto. Que la administración «vuelva» a los socios sobrevivientes es una
+interpretación sin norma expresa: se dice así.
+
 ## Cómo se decide
 
 En este orden. Si un paso no se puede cumplir, el resultado queda determinado por ese paso.

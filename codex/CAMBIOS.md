@@ -4,6 +4,14 @@
 
 Qué cambia para quien usa este saber, versión por versión. Lo que corre de verdad el servicio lo dice su herramienta `ver_cambios`; esto es la copia del paquete.
 
+## v0.1.6 · 2026-11-05
+
+Cuando muere el único socio administrador de una limitada, el saber cita que la facultad de administrar no pasa a los herederos del gestor, aunque se pacte continuar con ellos (art. 401 del Código de Comercio), y presenta la disolución, la liquidación o la continuación con nuevo pacto como caminos por ordenar. Regla provisional, sin revisión de un abogado.
+
+- Herramientas: `buscar_criterio`, `buscar_normas`, `cadena_del_tipo`, `calcular_umbral`, `lista_de_revision`, `listar_cobertura`, `preguntas_abiertas`, `requisitos_del_acto`, `ver_articulo`, `ver_criterio`
+- Skills: `acuerdo-valido`, `empezar-aqui`, `firma-irregular`, `quien-administra`, `quien-puede-firmar`, `revisar-poderes`, `vigencia-de-poderes`
+- Datos: sin manifiesto
+
 ## v0.1.5 · 2026-11-03
 
 Las respuestas son más cortas: las secciones que no aportan se omiten, la respuesta corta no repite las condiciones, y la orientación sobre efectos de una firma sólo aparece cuando se pregunta por una firma ya hecha. Si el estado ya está fijado por una razón cierta, no se cuentan hipótesis que lo contradigan.
