@@ -1,11 +1,11 @@
 {
-  "name": "societario",
-  "version": "0.1.6",
+  "name": "normativa-societaria",
+  "version": "0.1.7",
   "description": "Revisión de poderes de sociedades chilenas: quién puede obligar a una SpA, anónima, limitada o EIRL, para qué actos, sola o con quién, hasta cuánto y si está vigente, con el pasaje de cada documento, el artículo de la ley con su versión y lo que falta; y qué normas y hechos deciden los efectos cuando ya se firmó.",
   "author": {
     "name": "MindTheContext"
   },
-  "repository": "https://github.com/mindthecontext/saber-societario",
+  "repository": "https://github.com/mindthecontext/saber-normativa-societaria",
   "keywords": [
     "sociedades",
     "spa",
@@ -18,6 +18,6 @@
     "mandato",
     "registro de empresas"
   ],
-  "homepage": "https://github.com/mindthecontext/saber-societario",
+  "homepage": "https://github.com/mindthecontext/saber-normativa-societaria",
   "mcpServers": "./.mcp.json"
 }

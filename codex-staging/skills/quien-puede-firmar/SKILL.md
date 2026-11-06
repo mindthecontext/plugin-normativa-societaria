@@ -10,7 +10,7 @@ documentos de la sociedad y el acto; la salida es uno de tres estados, con los p
 lo que falta.
 
 Lee primero `references/criterio-de-respuesta.md`: es la regla de esta skill. Las normas se leen con las herramientas
-del servicio Societario (`ver_articulo`, `buscar_normas`), y la estructura del dominio con `cadena_del_tipo`,
+del servicio Normativa Societaria (`ver_articulo`, `buscar_normas`), y la estructura del dominio con `cadena_del_tipo`,
 `requisitos_del_acto`, `lista_de_revision` y `calcular_umbral`.
 
 ## 1 · Fija la pregunta

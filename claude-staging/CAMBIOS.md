@@ -1,8 +1,16 @@
-# Cambios · Societario
+# Cambios · Normativa Societaria
 
 <!-- Generado al derivar el paquete desde cambios.yaml. No editar a mano. -->
 
 Qué cambia para quien usa este saber, versión por versión. Lo que corre de verdad el servicio lo dice su herramienta `ver_cambios`; esto es la copia del paquete.
+
+## v0.1.7 · 2026-11-06
+
+El saber pasa a llamarse Normativa Societaria, igual que Normativa Tributaria y Normativa Laboral. Cambia el nombre y la dirección del servicio; las respuestas y las reglas no cambian.
+
+- Herramientas: `buscar_criterio`, `buscar_normas`, `cadena_del_tipo`, `calcular_umbral`, `lista_de_revision`, `listar_cobertura`, `preguntas_abiertas`, `requisitos_del_acto`, `ver_articulo`, `ver_criterio`
+- Skills: `acuerdo-valido`, `empezar-aqui`, `firma-irregular`, `quien-administra`, `quien-puede-firmar`, `revisar-poderes`, `vigencia-de-poderes`
+- Datos: sin manifiesto
 
 ## v0.1.6 · 2026-11-05
 

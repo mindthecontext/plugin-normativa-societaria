@@ -1,8 +1,8 @@
 ---
-description: Orienta a quien acaba de instalar Societario y no sabe qué pedirle — «¿qué puedes hacer con poderes?», «¿qué sociedades cubres?», «¿por dónde empiezo con una revisión de personería?», «¿qué te paso para revisar los poderes de un cliente?». Presenta las tareas, la cobertura consultada en vivo y lo que no hace. No es la puerta para «¿qué puedes hacer?» a secas, que es una pregunta sobre el asistente.
+description: Orienta a quien acaba de instalar Normativa Societaria y no sabe qué pedirle — «¿qué puedes hacer con poderes?», «¿qué sociedades cubres?», «¿por dónde empiezo con una revisión de personería?», «¿qué te paso para revisar los poderes de un cliente?». Presenta las tareas, la cobertura consultada en vivo y lo que no hace. No es la puerta para «¿qué puedes hacer?» a secas, que es una pregunta sobre el asistente.
 ---
 
-# Empezar con Societario
+# Empezar con Normativa Societaria
 
 1. Llama a `listar_cobertura`.
 2. Presenta, en el idioma de quien pregunta y sin jerga interna:

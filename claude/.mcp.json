@@ -1,8 +1,8 @@
 {
   "mcpServers": {
-    "societario": {
+    "normativa-societaria": {
       "type": "http",
-      "url": "https://societario.mcp.mindthecontext.ai/mcp"
+      "url": "https://normativa-societaria.mcp.mindthecontext.ai/mcp"
     }
   }
 }

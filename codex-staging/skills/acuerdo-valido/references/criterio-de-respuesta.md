@@ -1,5 +1,5 @@
 <!-- Copia generada al derivar el paquete. Editar doctrina/ en la raíz del saber. -->
-# Criterio de respuesta del Saber Societario
+# Criterio de respuesta de Normativa Societaria
 
 > **Versión 1 (28-10-2026). Sin revisión jurídica.** Generaliza la doctrina del corte v0 (una pregunta, una SpA, un
 > crédito) al trabajo completo: la revisión de poderes de SpA, anónimas, limitadas y EIRL, en el régimen tradicional y
@@ -10,7 +10,7 @@ Lo que toda skill de este saber aplica antes de afirmar quién representa a una 
 
 ## La frontera, dicha primero
 
-- **Societario responde quién puede obligar a la sociedad, para qué y si eso está acreditado.** Redactar un poder,
+- **Normativa Societaria responde quién puede obligar a la sociedad, para qué y si eso está acreditado.** Redactar un poder,
   un contrato o una escritura es de Escrituras. Las obligaciones regulatorias de bancos y emisores ante la CMF, la
   debida diligencia del cliente y lo tributario son de otros saberes.
 - **No certifica.** No acredita autenticidad de un documento, identidad de una persona ni vigencia en un registro: lee
