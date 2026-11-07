@@ -17,4 +17,6 @@ description: Orienta a quien acaba de instalar Normativa Societaria y no sabe qu
    - **Lo que no hace, dicho de entrada**: no redacta escrituras ni contratos, no certifica autenticidad ni identidad,
      no dictamina si un acto es nulo u obliga a la sociedad (orienta), y ninguna regla ha sido revisada todavía por un
      abogado.
+   - **Su estado**: el acceso es restringido, por invitación, y está en evaluación; la licencia de los textos de
+     la BCN sigue en consulta.
 3. Termina ofreciendo empezar por lo que la persona tenga a mano.

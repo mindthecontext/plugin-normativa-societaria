@@ -4,6 +4,14 @@
 
 Qué cambia para quien usa este saber, versión por versión. Lo que corre de verdad el servicio lo dice su herramienta `ver_cambios`; esto es la copia del paquete.
 
+## v0.1.8 · 2026-11-07
+
+El saber entra al catálogo legal, el mismo del saber tributario, para que quienes lo evalúan lo instalen igual. La skill de inicio dice ahora que el acceso es restringido, por invitación, y que la licencia de los textos de la BCN sigue en consulta. Las reglas, los datos y las herramientas no cambian; ninguna regla ha sido revisada por un abogado.
+
+- Herramientas: `buscar_criterio`, `buscar_normas`, `cadena_del_tipo`, `calcular_umbral`, `lista_de_revision`, `listar_cobertura`, `preguntas_abiertas`, `requisitos_del_acto`, `ver_articulo`, `ver_criterio`
+- Skills: `acuerdo-valido`, `empezar-aqui`, `firma-irregular`, `quien-administra`, `quien-puede-firmar`, `revisar-poderes`, `vigencia-de-poderes`
+- Datos: sin manifiesto
+
 ## v0.1.7 · 2026-11-06
 
 El saber pasa a llamarse Normativa Societaria, igual que Normativa Tributaria y Normativa Laboral. Cambia el nombre y la dirección del servicio; las respuestas y las reglas no cambian.
