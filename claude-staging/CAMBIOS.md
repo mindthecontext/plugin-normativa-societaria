@@ -4,6 +4,14 @@
 
 Qué cambia para quien usa este saber, versión por versión. Lo que corre de verdad el servicio lo dice su herramienta `ver_cambios`; esto es la copia del paquete.
 
+## v0.1.10 · 2026-11-08
+
+Se completan 12 artículos que la fuente (la Biblioteca del Congreso Nacional) entregaba cortados a mitad de frase. El que importa a este saber es el art. 72 de la Ley 18.046 sobre las actas de junta: faltaba que el acta debe quedar firmada y salvada dentro de los 10 días hábiles siguientes a la junta, y que en las abiertas la última acta debe estar a disposición de los accionistas en el sitio de Internet. Los otros once son del Código de Comercio, el Código Civil, el Código Orgánico de Tribunales y el Código de Procedimiento Civil. Cada texto completado empieza exactamente igual que el que había y dice de qué versión histórica de la BCN sale. Las reglas y las herramientas no cambian; ninguna regla ha sido revisada por un abogado.
+
+- Herramientas: `buscar_criterio`, `buscar_normas`, `cadena_del_tipo`, `calcular_umbral`, `lista_de_revision`, `listar_cobertura`, `preguntas_abiertas`, `requisitos_del_acto`, `ver_articulo`, `ver_criterio`
+- Skills: `acuerdo-valido`, `empezar-aqui`, `firma-irregular`, `quien-administra`, `quien-puede-firmar`, `revisar-poderes`, `vigencia-de-poderes`
+- Datos: sin manifiesto
+
 ## v0.1.9 · 2026-11-07
 
 La capa de criterio pasa de 60 a 97 entradas: se suman 37 oficios de la CMF y de la SVS sobre quién preside y firma las juntas, desde cuándo vale una reforma de estatutos y el directorio elegido con ella, el director suplente, la disolución, la firma electrónica de actas y las operaciones con partes relacionadas. Cada oficio trae pasajes literales, para qué sirve y para qué no. Siguen siendo oficios de efectos particulares, casi todos sobre sociedades abiertas o especiales. Las reglas y las herramientas no cambian; ninguna regla ha sido revisada por un abogado.
